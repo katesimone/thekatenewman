@@ -1,0 +1,43 @@
+/***** BASE STYLES *****/
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Abril Fatface', cursive;
+  color: #2b2b2b;
+}
+
+#pov {
+    height: 600px;
+}
+
+
+/***** HEADER *****/
+
+header {
+    height: 100px;
+}
+
+header h1 {
+    font-family: 'Abril Fatface', cursive;
+    font-size: 50px;
+    color: #bbc085;
+}
+
+/***** BODY *****/
+
+
+
+
+/***** FOOTER *****/
+footer ul li{
+    display: inline-block;
+}
+
+footer ul li {
+    font-family:  'Montserrat', sans-serif;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 18px;
+    color: #828282;
+    padding-left: 80px;
+}
